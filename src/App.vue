@@ -1,6 +1,6 @@
 <script setup>
 import Navbar from "./components/navbar.vue";
-import HeroSection from "./components/Hero-section.vue";
+import HeroSection from "./components/hero-section.vue";
 import featuresSection from "./components/features-section.vue";
 import CoSection from "./components/co-section.vue";
 </script>
